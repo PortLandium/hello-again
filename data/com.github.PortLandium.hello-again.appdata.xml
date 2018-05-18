@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2018 Your Name <portlandium@protonmail.com> -->
+<component type="desktop">
+  <custom>
+    <value key="x-appcenter-color-primary">#603461</value>
+    <value key="x-appcenter-color-primary-text">rgb(255, 255, 255)</value>
+    <value key="x-appcenter-suggested-prince">5</value>
+  </custom>
+  <id>com.github.PortLandium.hello-again.desktop.desktop</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Hello Again</name>
+  <summary>This is Catchy</summary>
+  <description>
+    <p>Not a real app.</p>
+  </description>
+</component>
